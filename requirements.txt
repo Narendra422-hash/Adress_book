@@ -3,3 +3,4 @@ unicorn==20.1.0
 sqlalchemy==1.4.22
 geopy==2.2.0
 gunicorn=2=0.1.0
+python == 3.7.0
